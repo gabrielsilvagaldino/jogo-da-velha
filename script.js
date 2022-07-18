@@ -8,4 +8,8 @@ function criaGrid() {
     }
 }
 
+function colocaCruz() {
+    
+}
+
 criaGrid();

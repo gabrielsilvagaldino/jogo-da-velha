@@ -51,6 +51,8 @@ main {
   z-index: 99;
 }
 
+/* Fim das bordas */
+
 #conjunto-grid {
   display: block;
   margin-left: 20px;
